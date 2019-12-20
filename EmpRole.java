@@ -5,6 +5,7 @@ public class EmpRole {
 
     private Integer roleFk;
 
+asejfoajfao
     private String erdis;
 
     public Integer getEmpFk() {
